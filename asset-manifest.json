@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ampl-graph/static/css/main.ad643262.chunk.css",
+    "main.js": "/ampl-graph/static/js/main.6707e139.chunk.js",
+    "main.js.map": "/ampl-graph/static/js/main.6707e139.chunk.js.map",
+    "runtime-main.js": "/ampl-graph/static/js/runtime-main.b690ec95.js",
+    "runtime-main.js.map": "/ampl-graph/static/js/runtime-main.b690ec95.js.map",
+    "static/js/2.93f32965.chunk.js": "/ampl-graph/static/js/2.93f32965.chunk.js",
+    "static/js/2.93f32965.chunk.js.map": "/ampl-graph/static/js/2.93f32965.chunk.js.map",
+    "static/js/3.8205e663.chunk.js": "/ampl-graph/static/js/3.8205e663.chunk.js",
+    "static/js/3.8205e663.chunk.js.map": "/ampl-graph/static/js/3.8205e663.chunk.js.map",
+    "index.html": "/ampl-graph/index.html",
+    "static/css/main.ad643262.chunk.css.map": "/ampl-graph/static/css/main.ad643262.chunk.css.map",
+    "static/js/2.93f32965.chunk.js.LICENSE.txt": "/ampl-graph/static/js/2.93f32965.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b690ec95.js",
+    "static/js/2.93f32965.chunk.js",
+    "static/css/main.ad643262.chunk.css",
+    "static/js/main.6707e139.chunk.js"
+  ]
+}
