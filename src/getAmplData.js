@@ -82,7 +82,8 @@ export default async function getAmplData() {
 	const timestampStart = sortedTimestamps[0];
 	return sortedTimestamps.map((timestamp, index) => {
 		const {market_cap, price, total_volume} = aggregatedData[timestamp];
-		const {totalSupply} = totalSupplyData[index];
+		// Reuse previous day's supply during the period between coingecko updating and rebase happening
+		const {totalSupply} = totalSupplyData[index] || totalSupplyData[index - 1];
 		const daysSinceStart = (timestamp - timestampStart) / dayMs;
 		return {
 			marketCap: market_cap,
