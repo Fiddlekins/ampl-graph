@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ampl-graph/static/css/main.01e0bcdc.chunk.css",
-    "main.js": "/ampl-graph/static/js/main.58e2c1f5.chunk.js",
-    "main.js.map": "/ampl-graph/static/js/main.58e2c1f5.chunk.js.map",
+    "main.js": "/ampl-graph/static/js/main.bf439626.chunk.js",
+    "main.js.map": "/ampl-graph/static/js/main.bf439626.chunk.js.map",
     "runtime-main.js": "/ampl-graph/static/js/runtime-main.34fb2b0c.js",
     "runtime-main.js.map": "/ampl-graph/static/js/runtime-main.34fb2b0c.js.map",
     "static/js/2.9b7c93e2.chunk.js": "/ampl-graph/static/js/2.9b7c93e2.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.34fb2b0c.js",
     "static/js/2.9b7c93e2.chunk.js",
     "static/css/main.01e0bcdc.chunk.css",
-    "static/js/main.58e2c1f5.chunk.js"
+    "static/js/main.bf439626.chunk.js"
   ]
 }
